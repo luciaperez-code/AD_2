@@ -1,0 +1,2 @@
+Coche [id=1, matricula=KFM, marca=Ford, modelo=Fiesta, color=Rojo]
+Coche [id=2, matricula=KKK, marca=, modelo=d, color=d]
