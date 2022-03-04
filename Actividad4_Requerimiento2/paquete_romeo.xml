@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oficina_postal>
+    <idOficina>1</idOficina>
+    <nombre>Correos Miraflores</nombre>
+    <numeroTrabajadores>20</numeroTrabajadores>
+    <direccion>Avenida Miraflores, 6, Malaga</direccion>
+    <paquete>Paquete [idPaquete=0, nombreDestinatario=Romeo Romero, nombreRemitente=Rosa Rosales, direccionDestinatario=C/Abedul 3, Madrid, direccionRemitente=C/Pinar 6, Valladolid]</paquete>
+</oficina_postal>
