@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<edificio>
+    <calle>Gran Via</calle>
+    <numPlantas>37</numPlantas>
+    <numero>138</numero>
+    <viviendas>
+        <viviendas id="1">
+            <inquilino>Marisa Pérez</inquilino>
+            <planta>Primero</planta>
+            <puerta>A</puerta>
+        </viviendas>
+        <viviendas id="2">
+            <inquilino>Pedro Fernández</inquilino>
+            <planta>Bajo</planta>
+            <puerta>D</puerta>
+        </viviendas>
+    </viviendas>
+</edificio>
